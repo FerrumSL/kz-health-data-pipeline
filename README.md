@@ -158,7 +158,8 @@ tests/testthat/                   schema tests and saved fixtures
 
 ## Data licences and attribution
 
-The raw files in `data/raw/` are shared under each publisher's terms:
+The code is under the MIT licence (see [`LICENSE`](LICENSE)). The MIT licence does not cover
+the data. The raw files in `data/raw/` are shared under each publisher's terms:
 
 - BNS: Bureau of National Statistics of the Agency for Strategic Planning and Reforms of the
   Republic of Kazakhstan, <https://stat.gov.kz/>. Free to reuse for any purpose, as long as the

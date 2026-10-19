@@ -1,0 +1,1576 @@
+country,indicator,year,value,unit,source_id,publisher,snapshot_date
+EGY,amr_ecoli_3gc_bsi,2018,97.87,percent,gho_amr_ecoli,gho,2026-10-19
+EGY,amr_ecoli_3gc_bsi,2019,87.8,percent,gho_amr_ecoli,gho,2026-10-19
+EGY,amr_ecoli_3gc_bsi,2020,89.58,percent,gho_amr_ecoli,gho,2026-10-19
+EGY,amr_ecoli_3gc_bsi,2022,87.5,percent,gho_amr_ecoli,gho,2026-10-19
+EGY,amr_ecoli_3gc_bsi,2023,89.41,percent,gho_amr_ecoli,gho,2026-10-19
+EGY,amr_mrsa_bsi,2018,70.4,percent,gho_amr_mrsa,gho,2026-10-19
+EGY,amr_mrsa_bsi,2019,79.59,percent,gho_amr_mrsa,gho,2026-10-19
+EGY,amr_mrsa_bsi,2020,100,percent,gho_amr_mrsa,gho,2026-10-19
+EGY,amr_mrsa_bsi,2021,92.31,percent,gho_amr_mrsa,gho,2026-10-19
+EGY,amr_mrsa_bsi,2022,69.44,percent,gho_amr_mrsa,gho,2026-10-19
+EGY,amr_mrsa_bsi,2023,88.89,percent,gho_amr_mrsa,gho,2026-10-19
+EGY,doctors,2003,4.94,per 10000 population,gho_docs,gho,2026-10-19
+EGY,doctors,2014,7.3,per 10000 population,gho_docs,gho,2026-10-19
+EGY,doctors,2015,7.63,per 10000 population,gho_docs,gho,2026-10-19
+EGY,doctors,2016,7.63,per 10000 population,gho_docs,gho,2026-10-19
+EGY,doctors,2017,7.43,per 10000 population,gho_docs,gho,2026-10-19
+EGY,doctors,2018,7.16,per 10000 population,gho_docs,gho,2026-10-19
+EGY,doctors,2019,6.97,per 10000 population,gho_docs,gho,2026-10-19
+EGY,doctors,2020,11.11,per 10000 population,gho_docs,gho,2026-10-19
+EGY,doctors,2021,11.8,per 10000 population,gho_docs,gho,2026-10-19
+EGY,doctors,1960,3.91,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,1965,4.35,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,1970,5.2700000000000005,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,1975,5.36,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,2003,4.9399999999999995,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,2014,7.3,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,2015,7.63,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,2016,7.63,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,2017,7.43,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,2018,7.16,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,2019,6.97,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,doctors,2020,6.710000000000001,per 10000 population,wb_docs,worldbank,2026-10-19
+EGY,dtp3_coverage,2000,98,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2001,99,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2002,97,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2003,98,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2004,97,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2005,98,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2006,98,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2007,98,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2008,97,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2009,97,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2010,97,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2011,96,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2012,93,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2013,97,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2014,94,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2015,93,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2016,95,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2017,94,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2018,95,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2019,95,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2020,94,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2021,96,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2022,97,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2023,96,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2024,97,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,2025,98,percent,gho_dtp3,gho,2026-10-19
+EGY,dtp3_coverage,1980,57,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1981,57,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1982,57,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1983,57,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1984,69,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1985,84,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1986,80,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1987,81,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1988,87,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1989,90,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1990,87,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1991,76,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1992,79,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1993,81,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1994,83,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1995,88,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1996,90,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1997,88,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1998,92,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,1999,97,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2000,98,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2001,99,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2002,97,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2003,98,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2004,97,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2005,98,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2006,98,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2007,98,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2008,97,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2009,97,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2010,97,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2011,96,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2012,93,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2013,97,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2014,94,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2015,93,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2016,95,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2017,94,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2018,95,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2019,95,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2020,94,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2021,96,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2022,97,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2023,96,percent,wb_dtp3,worldbank,2026-10-19
+EGY,dtp3_coverage,2024,97,percent,wb_dtp3,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2000,4.92244291,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2001,5.40030336,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2002,5.5107379,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2003,5.2242527,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2004,4.85732365,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2005,4.92229176,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2006,4.84190083,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2007,4.44493246,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2008,4.46634817,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2009,4.37870932,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2010,4.15319157,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2011,4.35707569,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2012,4.45891809,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2013,4.6710043,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2014,4.77415323,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2015,5.06153202,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2016,5.07462406,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2017,5.34661913,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2018,4.74892998,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2019,4.5994668,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2020,4.15384626,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2021,4.60955143,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2022,4.72362804,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2023,4.88449335,percent of GDP,gho_che,gho,2026-10-19
+EGY,health_expenditure_gdp,2000,4.92244291,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2001,5.40030336,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2002,5.5107379,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2003,5.2242527,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2004,4.85732365,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2005,4.92229176,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2006,4.84190083,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2007,4.44493246,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2008,4.46634817,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2009,4.37870932,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2010,4.15319157,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2011,4.35707569,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2012,4.45891809,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2013,4.6710043,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2014,4.77415323,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2015,5.06153202,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2016,5.07462406,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2017,5.34661913,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2018,4.74892998,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2019,4.5994668,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2020,4.15384626,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2021,4.60955143,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2022,4.72362804,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,health_expenditure_gdp,2023,4.88449335,percent of GDP,wb_che,worldbank,2026-10-19
+EGY,hospital_beds,2000,19.176477117,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2001,19.169336777,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2002,18.956011309,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2003,18.989371955,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2004,19.179278809,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2005,18.763267251,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2006,20.843066004,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2007,18.154111242,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2008,15.934237818,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2009,14.796523347,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2010,14.027859724,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2011,14.01994716,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2012,13.790427177,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2013,13.731052565,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2014,13.421696286,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2015,12.48637815,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2016,12.454672205,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2017,12.738382013,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2018,12.395950444,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2019,11.933075589,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2020,11.125359521,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,2021,10.590047729,per 10000 population,gho_beds,gho,2026-10-19
+EGY,hospital_beds,1960,21.4697933197021,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1970,21.8050003051758,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1975,20.366001129150398,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1980,20.262999534606898,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1981,20.722000598907503,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1986,20.8570003509521,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1988,21.2470006942749,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1989,20.1990008354187,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1990,20.708999634,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1991,20.241999626000002,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1992,20.004000664000003,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1993,19.292999506,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1996,20.999999046000003,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,1997,20.999999046000003,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2000,19.2,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2001,19.2,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2002,19,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2003,19,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2004,19.2,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2005,18.799999999999997,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2006,20.8,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2007,18.2,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2008,15.9,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2009,14.8,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2010,14,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2011,14,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2012,13.799999999999999,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2013,13.700000000000001,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2014,13.4,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2015,12.5,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2016,12.5,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2017,12.7,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2018,12.4,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2019,11.899999999999999,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2020,11.100000000000001,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,hospital_beds,2021,10.600000000000001,per 10000 population,wb_beds,worldbank,2026-10-19
+EGY,infant_mortality,1955,191.381891465,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1956,187.670874675,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1957,184.050139487,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1958,180.299545532,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1959,176.714100853,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1960,172.713821248,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1961,168.727371966,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1962,164.72789733,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1963,160.823396964,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1964,157.359405735,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1965,154.549567401,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1966,152.429549576,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1967,151.042545364,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1968,150.29833794,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1969,150.045006311,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1970,150.049597133,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1971,150.032047776,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1972,149.57120707,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1973,148.418437561,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1974,146.182328517,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1975,142.960934488,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1976,139.004368517,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1977,134.604345882,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1978,129.900253098,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1979,125.078685328,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1980,119.991178313,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1981,114.620602461,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1982,108.83020059,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1983,102.686228702,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1984,96.187756675,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1985,89.81819433,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1986,83.945187647,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1987,78.809884871,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1988,74.402846989,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1989,70.7758062,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1990,67.703818002,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1991,64.846288096,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1992,62.031397661,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1993,59.183536381,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1994,56.194127889,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1995,53.163629645,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1996,50.168705284,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1997,47.363430073,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1998,44.731300829,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1999,42.32369654,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2000,40.145902113,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2001,38.203302666,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2002,36.452968722,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2003,34.896042233,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2004,33.524367137,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2005,32.301026244,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2006,31.14556609,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2007,30.066658092,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2008,29.02463406,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2009,28.077502844,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2010,27.173793293,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2011,26.380741613,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2012,25.670188573,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2013,25.075723684,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2014,24.540932704,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2015,24.083907583,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2016,23.71289669,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2017,23.396529154,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2018,23.118640891,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2019,22.87215935,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2020,22.580536395,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2021,22.225393524,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2022,21.768258654,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2023,21.319417699,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,2024,20.834058148,per 1000 live births,gho_imr,gho,2026-10-19
+EGY,infant_mortality,1960,172.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1961,168.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1962,164.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1963,160.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1964,157.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1965,154.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1966,152.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1967,151,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1968,150.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1969,150,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1970,150,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1971,150,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1972,149.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1973,148.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1974,146.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1975,143,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1976,139,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1977,134.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1978,129.9,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1979,125.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1980,120,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1981,114.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1982,108.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1983,102.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1984,96.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1985,89.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1986,83.9,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1987,78.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1988,74.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1989,70.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1990,67.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1991,64.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1992,62,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1993,59.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1994,56.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1995,53.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1996,50.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1997,47.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1998,44.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,1999,42.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2000,40.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2001,38.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2002,36.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2003,34.9,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2004,33.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2005,32.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2006,31.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2007,30.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2008,29,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2009,28.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2010,27.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2011,26.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2012,25.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2013,25.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2014,24.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2015,24.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2016,23.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2017,23.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2018,23.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2019,22.9,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2020,22.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2021,22.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2022,21.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2023,21.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,infant_mortality,2024,20.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+EGY,life_expectancy,2000,68.7,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2001,68.4,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2002,68.4,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2003,68.4,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2004,68.9,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2005,69.2,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2006,69.3,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2007,69.5,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2008,69.5,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2009,69.5,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2010,69.6,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2011,69.8,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2012,69.6,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2013,70.2,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2014,70.3,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2015,69.9,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2016,70.5,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2017,71,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2018,71.1,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2019,71.2,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2020,69.9,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2021,68.8,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2022,71.2,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,2023,71.9,years,gho_le,gho,2026-10-19
+EGY,life_expectancy,1960,44.436,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1961,45.146,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1962,45.844,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1963,46.493,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1964,47.075,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1965,47.577,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1966,47.988,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1967,48.13,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1968,48.602,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1969,48.7,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1970,49,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1971,49.48,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1972,49.908,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1973,50.098,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1974,51.044,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1975,51.734,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1976,52.484,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1977,53.272,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1978,54.075,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1979,54.876,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1980,55.673,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1981,56.454,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1982,57.219,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1983,57.967,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1984,58.697,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1985,59.405,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1986,60.085,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1987,60.736,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1988,61.358,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1989,61.949,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1990,62.513,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1991,63.059,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1992,63.585,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1993,64.147,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1994,64.663,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1995,65.214,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1996,65.733,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1997,66.207,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1998,66.635,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,1999,67.01,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2000,67.332,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2001,67.612,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2002,67.846,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2003,68.045,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2004,68.211,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2005,68.355,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2006,68.493,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2007,68.627,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2008,68.761,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2009,68.915,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2010,69.078,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2011,69.232,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2012,69.464,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2013,69.632,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2014,69.911,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2015,70.135,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2016,70.437,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2017,70.709,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2018,70.974,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2019,71.213,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2020,69.79,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2021,68.976,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2022,71.01,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2023,71.633,years,wb_le,worldbank,2026-10-19
+EGY,life_expectancy,2024,71.806,years,wb_le,worldbank,2026-10-19
+EGY,neonatal_mortality,1957,70.648426755,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1958,69.562822115,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1959,68.282198001,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1960,67.098022036,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1961,65.826890687,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1962,64.505589232,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1963,63.224462041,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1964,62.223184658,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1965,61.417023849,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1966,61.013457536,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1967,60.768870354,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1968,60.772564368,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1969,60.934404106,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1970,61.163058293,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1971,61.306712741,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1972,61.16799823,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1973,60.693761142,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1974,59.892369763,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1975,58.846599702,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1976,57.708578126,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1977,56.554605595,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1978,55.3519771,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1979,54.062556532,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1980,52.638146102,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1981,51.046885937,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1982,49.253025233,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1983,47.30044052,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1984,45.154615884,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1985,42.83604578,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1986,40.591694227,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1987,38.513723016,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1988,36.649711358,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1989,34.958397303,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1990,33.421531379,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1991,31.98916024,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1992,30.672491495,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1993,29.409530127,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1994,28.18070993,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1995,27.002754982,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1996,25.931504101,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1997,25.005927766,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1998,24.177381523,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1999,23.449058107,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2000,22.804867436,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2001,22.18934248,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2002,21.630058392,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2003,21.121973028,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2004,20.612544457,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2005,20.091079296,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2006,19.385597467,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2007,18.653001847,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2008,17.941676554,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2009,17.288424292,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2010,16.716123934,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2011,16.25987816,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2012,15.896744265,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2013,15.640737092,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2014,15.450163533,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2015,15.327158785,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2016,15.251982629,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2017,15.231349656,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2018,15.22000671,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2019,15.174258187,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2020,15.050466968,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2021,14.853055683,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2022,14.575159173,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2023,14.249193283,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,2024,13.858785428,per 1000 live births,gho_nmr,gho,2026-10-19
+EGY,neonatal_mortality,1960,67.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1961,65.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1962,64.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1963,63.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1964,62.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1965,61.4,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1966,61,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1967,60.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1968,60.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1969,60.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1970,61.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1971,61.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1972,61.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1973,60.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1974,59.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1975,58.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1976,57.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1977,56.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1978,55.4,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1979,54.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1980,52.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1981,51,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1982,49.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1983,47.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1984,45.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1985,42.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1986,40.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1987,38.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1988,36.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1989,35,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1990,33.4,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1991,32,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1992,30.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1993,29.4,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1994,28.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1995,27,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1996,25.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1997,25,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1998,24.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,1999,23.4,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2000,22.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2001,22.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2002,21.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2003,21.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2004,20.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2005,20.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2006,19.4,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2007,18.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2008,17.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2009,17.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2010,16.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2011,16.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2012,15.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2013,15.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2014,15.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2015,15.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2016,15.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2017,15.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2018,15.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2019,15.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2020,15.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2021,14.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2022,14.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2023,14.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,neonatal_mortality,2024,13.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2000,21,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2001,21,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2002,20,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2003,19,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2004,19,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2005,18,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2006,17,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2007,17,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2008,16,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2009,16,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2010,15,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2011,15,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2012,14,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2013,14,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2014,13,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2015,13,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2016,13,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2017,12,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2018,12,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2019,11,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2020,11,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2021,11,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2022,11,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2023,10,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2024,10,per 100000 population,gho_tb,gho,2026-10-19
+EGY,tb_incidence_estimated,2000,21,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2001,21,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2002,20,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2003,19,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2004,19,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2005,18,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2006,17,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2007,17,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2008,16,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2009,16,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2010,15,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2011,15,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2012,14,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2013,14,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2014,13,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2015,13,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2016,13,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2017,12,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2018,12,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2019,11,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2020,11,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2021,11,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2022,11,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2023,10,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,tb_incidence_estimated,2024,10,per 100000 population,wb_tb,worldbank,2026-10-19
+EGY,under5_mortality,1955,374.044121202,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1956,364.060373481,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1957,354.330486716,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1958,344.404525203,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1959,334.7043834,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1960,324.374923507,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1961,313.986680785,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1962,303.421034798,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1963,293.242006618,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1964,283.85400655,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1965,275.575288291,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1966,268.441990102,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1967,262.533923343,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1968,257.722564847,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1969,253.658135359,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1970,249.953096812,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1971,246.084899166,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1972,241.480951022,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1973,235.679578991,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1974,228.205980884,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1975,219.389427761,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1976,209.737142954,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1977,199.707104508,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1978,189.528920626,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1979,179.667868603,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1980,169.836251519,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1981,159.995953149,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1982,149.939190695,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1983,139.763213356,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1984,129.464017646,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1985,119.621025537,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1986,110.685249684,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1987,102.89574345,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1988,96.251006793,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1989,90.708116625,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1990,85.996490125,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1991,81.657367498,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1992,77.451135294,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1993,73.273006057,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1994,69.0151407,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1995,64.794682595,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1996,60.705135279,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1997,56.902074321,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1998,53.388485471,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1999,50.188427459,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2000,47.318808123,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2001,44.766259835,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2002,42.477053546,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2003,40.441022548,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2004,38.648575003,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2005,37.043022919,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2006,35.554283811,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2007,34.160913098,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2008,32.828738606,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2009,31.611835286,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2010,30.46842149,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2011,29.464138499,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2012,28.561114097,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2013,27.792796089,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2014,27.10523893,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2015,26.501212889,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2016,25.996062648,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2017,25.557092209,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2018,25.168783747,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2019,24.81581681,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2020,24.430910867,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2021,23.991085758,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2022,23.452016475,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2023,22.929886287,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,2024,22.373831462,per 1000 live births,gho_u5mr,gho,2026-10-19
+EGY,under5_mortality,1960,324.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1961,314,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1962,303.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1963,293.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1964,283.9,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1965,275.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1966,268.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1967,262.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1968,257.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1969,253.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1970,250,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1971,246.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1972,241.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1973,235.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1974,228.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1975,219.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1976,209.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1977,199.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1978,189.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1979,179.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1980,169.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1981,160,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1982,149.9,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1983,139.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1984,129.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1985,119.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1986,110.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1987,102.9,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1988,96.3,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1989,90.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1990,86,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1991,81.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1992,77.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1993,73.3,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1994,69,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1995,64.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1996,60.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1997,56.9,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1998,53.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,1999,50.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2000,47.3,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2001,44.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2002,42.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2003,40.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2004,38.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2005,37,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2006,35.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2007,34.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2008,32.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2009,31.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2010,30.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2011,29.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2012,28.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2013,27.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2014,27.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2015,26.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2016,26,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2017,25.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2018,25.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2019,24.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2020,24.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2021,24,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2022,23.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2023,22.9,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+EGY,under5_mortality,2024,22.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,doctors,2014,39.5,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,2015,39.5,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,2016,41.6,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,2017,39.7,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,2018,39.62,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,2019,39.74,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,2020,40.49,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,2021,40.91,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,2022,40.1,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,2023,40.57,per 10000 population,bns_docs,bns,2026-10-19
+KAZ,doctors,1990,38.64,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1991,37.34,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1992,38.25,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1993,37.32,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1994,35.73,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1995,35.94,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1996,35.3,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1997,32.41,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1998,33.99,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1999,32.71,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2000,31.58,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2001,32.93,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2002,34.27,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2003,34.68,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2004,34.55,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2005,34.76,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2006,35.72,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2007,35.3,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2008,35.88,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2009,36.5,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2010,37.91,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2011,38.15,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2012,37.86,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2013,38.32,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2014,38.65,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2015,37.26,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2016,37.07,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2017,36,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2018,35.31,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2019,36.2,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2020,36.63,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2021,37.11,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2022,37.19,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2023,37.54,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,2024,30.59,per 10000 population,gho_docs,gho,2026-10-19
+KAZ,doctors,1990,38.64,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,1991,37.34,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,1992,38.25,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,1993,37.32,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,1994,35.73,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,1995,35.94,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,1996,35.3,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,1997,32.410000000000004,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,1998,33.99,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,1999,32.71,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2000,31.58,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2001,32.93,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2002,34.27,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2003,34.68,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2004,34.55,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2005,34.76,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2006,35.72,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2007,35.3,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2008,35.88,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2009,36.5,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2010,37.91,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2011,38.15,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2012,37.86,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2013,38.32,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2014,38.650000000000006,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2015,37.26,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2016,37.07,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2017,36,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2018,35.31,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2019,36.2,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2020,36.629999999999995,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2021,37.11,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2022,37.19,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,doctors,2023,37.54,per 10000 population,wb_docs,worldbank,2026-10-19
+KAZ,dtp3_coverage,2010,98.9,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2011,98.6,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2012,98.1,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2013,98.1,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2014,98.5,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2015,97.9,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2016,82.5,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2017,100,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2018,98.3,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2019,97.4,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2020,88.3,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2021,95.3,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2022,98.6,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2023,96.7,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2024,98,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2025,98.1,percent,bns_dtp3,bns,2026-10-19
+KAZ,dtp3_coverage,2000,97,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2001,95,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2002,95,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2003,99,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2004,82,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2005,98,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2006,99,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2007,93,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2008,99,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2009,98,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2010,99,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2011,99,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2012,99,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2013,98,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2014,95,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2015,93,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2016,74,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2017,86,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2018,79,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2019,73,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2020,60,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2021,61,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2022,61,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2023,55,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2024,54,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,2025,54,percent,gho_dtp3,gho,2026-10-19
+KAZ,dtp3_coverage,1992,81,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,1993,76,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,1994,76,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,1995,93,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,1996,95,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,1997,97,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,1998,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,1999,98,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2000,97,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2001,95,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2002,95,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2003,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2004,82,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2005,98,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2006,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2007,93,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2008,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2009,98,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2010,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2011,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2012,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2013,98,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2014,95,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2015,98,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2016,83,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2017,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2018,98,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2019,97,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2020,88,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2021,95,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2022,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2023,99,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,dtp3_coverage,2024,98,percent,wb_dtp3,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2000,4.16032028,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2001,3.47098041,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2002,3.6148138,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2003,3.72335005,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2004,3.98307681,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2005,3.90172958,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2006,3.39824843,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2007,2.70314813,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2008,3.02569842,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2009,3.47355628,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2010,2.73641396,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2011,2.60236669,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2012,3.03725982,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2013,2.66286755,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2014,2.97468448,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2015,3.04051113,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2016,3.42235589,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2017,3.0524447,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2018,2.90062451,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2019,2.87143755,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2020,3.83133817,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2021,3.98701859,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2022,3.74577999,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2023,3.76701546,percent of GDP,gho_che,gho,2026-10-19
+KAZ,health_expenditure_gdp,2000,4.16032028,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2001,3.47098041,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2002,3.6148138,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2003,3.72335005,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2004,3.98307681,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2005,3.90172958,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2006,3.39824843,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2007,2.70314813,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2008,3.02569842,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2009,3.47355628,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2010,2.73641396,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2011,2.60236669,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2012,3.03725982,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2013,2.66286755,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2014,2.97468448,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2015,3.04051113,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2016,3.42235589,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2017,3.0524447,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2018,2.90062451,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2019,2.87143755,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2020,3.83133817,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2021,3.98701859,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2022,3.74577999,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,health_expenditure_gdp,2023,3.76701546,percent of GDP,wb_che,worldbank,2026-10-19
+KAZ,hospital_beds,2014,60.41,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2015,58,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2016,55.9,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2017,54.78,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2018,53.48,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2019,51.68,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2020,67.51,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2021,65.4,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2022,52.46,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2023,53.08,per 10000 population,bns_beds,bns,2026-10-19
+KAZ,hospital_beds,2000,68.991197274,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2001,66.489461593,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2002,66.580526651,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2003,72.889585442,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2004,73.587251211,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2005,73.623574574,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2006,73.916470718,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2007,73.537819797,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2008,73.563937161,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2009,72.952519249,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2010,70.693914108,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2011,68.941177656,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2012,65.276348851,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2013,61.225749867,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2014,59.057759902,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2015,56.673306911,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2016,54.498570297,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2017,53.326918269,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2018,51.958180771,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2019,50.124011195,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,2020,65.426154663,per 10000 population,gho_beds,gho,2026-10-19
+KAZ,hospital_beds,1980,130.93400001525902,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1981,132.29100227356,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1982,133.114995956421,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1983,133.694000244141,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1984,135.123996734619,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1985,135.857000350952,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1986,135.60700416564902,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1987,135.560998916626,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1988,135.441999435425,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1989,136.300001144409,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1990,136.660995483,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1991,137.089996338,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1992,134.618997574,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1993,131.665000916,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1994,121.44700050399999,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1995,116.49999618500001,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1996,103.29999923700001,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1997,84.49999809299999,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1998,81.899995804,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,1999,72.5,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2000,69,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2001,66.5,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2002,66.6,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2003,72.9,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2004,73.60000000000001,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2005,73.60000000000001,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2006,73.89999999999999,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2007,73.5,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2008,73.60000000000001,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2009,73,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2010,70.7,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2011,68.89999999999999,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2012,65.3,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2013,61.2,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2014,59.1,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2015,56.7,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2016,54.5,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2017,53.3,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2018,52,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2019,50.099999999999994,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,hospital_beds,2020,65.4,per 10000 population,wb_beds,worldbank,2026-10-19
+KAZ,infant_mortality,2001,19.12,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2002,17.01,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2003,15.66,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2004,14.5,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2005,15.15,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2007,14.57,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2008,20.74,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2009,16.33,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2010,16.59,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2011,14.91,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2012,13.56,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2013,11.39,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2014,9.83,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2015,9.41,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2016,8.59,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2017,7.93,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2018,8.03,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2019,8.37,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2020,7.77,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2021,8.44,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2022,7.69,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2023,7.67,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2024,6.8,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,2025,5.85,per 1000 live births,bns_imr,bns,2026-10-19
+KAZ,infant_mortality,1971,76.266414588,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1972,74.281316493,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1973,72.487835101,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1974,70.744621988,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1975,69.147082438,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1976,67.704355095,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1977,66.45166809,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1978,65.044426663,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1979,63.617582386,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1980,61.817114215,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1981,59.867051958,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1982,57.820799588,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1983,55.78708549,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1984,53.773223367,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1985,51.740211274,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1986,49.746113548,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1987,47.952866574,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1988,46.340085172,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1989,45.080968773,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1990,44.309479221,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1991,44.027617816,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1992,44.185472598,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1993,44.596067968,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1994,44.884552941,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1995,44.642143948,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1996,43.725322855,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1997,42.224656654,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1998,40.266052123,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1999,38.081846281,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2000,35.802831373,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2001,33.568447314,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2002,31.46512681,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2003,29.551952364999998,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2004,27.722306299,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2005,25.938912136,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2006,24.119179339,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2007,22.277623062,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2008,20.401040056,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2009,18.522173688,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2010,16.68663355,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2011,14.920271332,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2012,13.253854667,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2013,11.735893031,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2014,10.465470319,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2015,9.491930555,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2016,8.808337516,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2017,8.388328628,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2018,8.186489038,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2019,8.086614499,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2020,7.994910084,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2021,7.880361811,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2022,7.745084153,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2023,7.589762794,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,2024,7.41996815,per 1000 live births,gho_imr,gho,2026-10-19
+KAZ,infant_mortality,1971,76.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1972,74.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1973,72.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1974,70.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1975,69.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1976,67.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1977,66.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1978,65,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1979,63.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1980,61.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1981,59.9,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1982,57.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1983,55.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1984,53.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1985,51.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1986,49.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1987,48,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1988,46.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1989,45.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1990,44.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1991,44,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1992,44.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1993,44.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1994,44.9,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1995,44.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1996,43.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1997,42.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1998,40.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,1999,38.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2000,35.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2001,33.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2002,31.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2003,29.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2004,27.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2005,25.9,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2006,24.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2007,22.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2008,20.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2009,18.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2010,16.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2011,14.9,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2012,13.3,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2013,11.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2014,10.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2015,9.5,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2016,8.8,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2017,8.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2018,8.2,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2019,8.1,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2020,8,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2021,7.9,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2022,7.7,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2023,7.6,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,infant_mortality,2024,7.4,per 1000 live births,wb_imr,worldbank,2026-10-19
+KAZ,life_expectancy,2009,68.38999999999999,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2010,68.44999999999999,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2011,68.69,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2012,69.52,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2013,70.62,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2014,71.44,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2015,71.97,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2016,72.41,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2017,72.94999999999999,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2018,73.14999999999999,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2019,73.17999999999999,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2020,71.37,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2021,70.22999999999999,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2022,74.44,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2023,75.09,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2024,75.44,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2025,75.97,years,bns_le,bns,2026-10-19
+KAZ,life_expectancy,2000,64.2,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2001,64.6,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2002,64.9,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2003,64.7,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2004,65,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2005,65,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2006,65.4,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2007,65.8,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2008,67.1,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2009,68.5,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2010,68.5,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2011,69.1,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2012,69.7,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2013,70.7,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2014,71.5,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2015,72,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2016,72.4,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2017,73,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2018,73.2,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2019,73.2,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2020,71.3,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2021,70.2,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2022,74.4,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,2023,74.8,years,gho_le,gho,2026-10-19
+KAZ,life_expectancy,1960,57.946,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1961,58.169,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1962,58.392,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1963,58.612,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1964,58.83,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1965,59.042,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1966,59.247,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1967,59.446,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1968,59.643,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1969,59.843,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1970,60.049,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1971,60.262,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1972,60.48,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1973,60.697,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1974,60.908,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1975,61.11,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1976,61.301,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1977,61.517,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1978,61.765,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1979,62.072,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1980,62.516,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1981,62.996,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1982,63.586,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1983,64.224,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1984,64.839,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1985,65.376,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1986,65.788,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1987,65.996,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1988,66.032,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1989,65.915,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1990,65.701,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1991,65.379,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1992,64.978,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1993,64.538,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1994,64.108,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1995,63.717,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1996,63.455,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1997,63.318,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1998,63.349,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,1999,63.528,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2000,63.793,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2001,64.108,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2002,64.441,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2003,64.753,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2004,65.04,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2005,65.356,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2006,65.722,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2007,66.18,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2008,66.759,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2009,67.46,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2010,68.257,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2011,69.108,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2012,69.939,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2013,70.719,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2014,71.415,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2015,72.024,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2016,72.549,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2017,72.996,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2018,73.369,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2019,73.658,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2020,71.195,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2021,70.131,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2022,73.503,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2023,74.402,years,wb_le,worldbank,2026-10-19
+KAZ,life_expectancy,2024,74.531,years,wb_le,worldbank,2026-10-19
+KAZ,neonatal_mortality,2010,11.525755536522697,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2011,9.806972177813067,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2012,9.03292137896305,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2013,7.143004657022191,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2014,5.900642887184314,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2015,5.6147780557012075,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2016,5.174163593338171,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2017,4.627341519314734,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2018,4.569712638763839,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2019,4.800071665144611,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2020,4.775898351635476,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2021,5.064199607513316,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2022,4.528427083410706,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2023,4.175806069593335,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2024,3.3722941711780896,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,2025,3.0417456455873793,per 1000 live births,bns_nmr,bns,2026-10-19
+KAZ,neonatal_mortality,1972,26.922951994,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1973,26.509265338,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1974,26.141702914,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1975,25.735958278,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1976,25.452000862,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1977,25.196814745,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1978,24.982605515,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1979,24.721663716,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1980,24.440350464,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1981,24.133281734,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1982,23.87308512,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1983,23.616642504,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1984,23.354492954,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1985,23.078219833,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1986,22.7995745,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1987,22.543061871,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1988,22.313800024,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1989,22.22022689,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1990,22.282699194,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1991,22.525010921,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1992,22.948948566,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1993,23.542486059,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1994,24.100650054,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1995,24.518066066,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1996,24.738294771,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1997,24.713374869,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1998,24.499128774,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1999,24.123164538,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2000,23.598104838,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2001,23.017814898,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2002,22.389328314,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2003,21.533921081,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2004,20.627469843,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2005,19.647095901,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2006,18.473222293,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2007,17.011959211,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2008,15.279797344,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2009,13.475715974,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2010,11.76320369,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2011,10.171482445,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2012,8.662701594,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2013,7.301796323,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2014,6.216832874,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2015,5.480804963,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2016,5.035863414,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2017,4.800999579,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2018,4.716116392,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2019,4.730818459,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2020,4.780469246,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2021,4.78242996,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2022,4.625974851,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2023,4.300014971,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,2024,3.942531383,per 1000 live births,gho_nmr,gho,2026-10-19
+KAZ,neonatal_mortality,1972,26.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1973,26.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1974,26.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1975,25.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1976,25.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1977,25.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1978,25,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1979,24.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1980,24.4,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1981,24.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1982,23.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1983,23.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1984,23.4,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1985,23.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1986,22.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1987,22.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1988,22.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1989,22.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1990,22.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1991,22.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1992,22.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1993,23.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1994,24.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1995,24.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1996,24.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1997,24.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1998,24.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,1999,24.1,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2000,23.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2001,23,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2002,22.4,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2003,21.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2004,20.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2005,19.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2006,18.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2007,17,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2008,15.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2009,13.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2010,11.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2011,10.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2012,8.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2013,7.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2014,6.2,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2015,5.5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2016,5,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2017,4.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2018,4.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2019,4.7,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2020,4.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2021,4.8,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2022,4.6,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2023,4.3,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,neonatal_mortality,2024,3.9,per 1000 live births,wb_nmr,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2000,168,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2001,170,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2002,178,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2003,225,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2004,181,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2005,181,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2006,167,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2007,166,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2008,142,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2009,151,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2010,140,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2011,148,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2012,105,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2013,109,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2014,86,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2015,78,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2016,68,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2017,67,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2018,68,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2019,66,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2020,62,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2021,57,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2022,53,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2023,49,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2024,45,per 100000 population,gho_tb,gho,2026-10-19
+KAZ,tb_incidence_estimated,2000,168,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2001,170,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2002,178,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2003,225,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2004,181,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2005,181,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2006,167,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2007,166,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2008,142,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2009,151,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2010,140,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2011,148,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2012,105,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2013,109,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2014,86,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2015,78,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2016,68,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2017,67,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2018,68,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2019,66,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2020,62,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2021,57,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2022,53,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2023,49,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_estimated,2024,45,per 100000 population,wb_tb,worldbank,2026-10-19
+KAZ,tb_incidence_national,2010,95.3,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2011,86.6,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2012,81.7,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2013,73.4,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2014,66.4,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2015,58.5,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2016,52.7,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2017,52.2,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2018,48.2,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2019,45.6,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2020,35.7,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2021,35.9,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2022,36.5,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2023,34.7,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2024,33.4,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,tb_incidence_national,2025,30.1,per 100000 population,bns_tb,bns,2026-10-19
+KAZ,under5_mortality,2010,19.617439536685836,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2011,18.02594448438288,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2012,16.43183868734132,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2013,14.25,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2014,12.4,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2015,12.11,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2016,10.92,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2017,10.28,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2018,10,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2019,10.52,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2020,9.28,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2021,9.9,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2022,9.88,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2023,10.03,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2024,9.3,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,2025,8.1,per 1000 live births,bns_u5mr,bns,2026-10-19
+KAZ,under5_mortality,1971,85.624285789,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1972,83.506951804,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1973,81.597816376,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1974,79.749841916,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1975,78.063711516,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1976,76.510406149,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1977,75.171473999,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1978,73.690407046,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1979,72.161685027,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1980,70.218843366,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1981,68.100583741,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1982,65.847599414,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1983,63.632197343,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1984,61.412881377,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1985,59.172121435,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1986,56.970444969,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1987,55.005187731,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1988,53.228856801,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1989,51.859341998,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1990,51.056269519,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1991,50.817670328,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1992,51.090074045,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1993,51.668666545,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1994,52.108570601,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1995,51.931313423,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1996,50.966344032,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1997,49.322604171,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1998,47.145952917,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1999,44.695863537,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2000,42.125412496,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2001,39.604297013,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2002,37.227695073,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2003,35.071644323,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2004,33.00747187,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2005,30.990412036,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2006,28.926306323,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2007,26.825639576,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2008,24.672818074,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2009,22.502518123,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2010,20.370096338,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2011,18.306359441,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2012,16.343242811,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2013,14.541162605,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2014,13.025694795,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2015,11.862116927,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2016,11.045510636,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2017,10.549166079999999,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2018,10.318501814,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2019,10.211990504,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2020,10.113042577,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2021,9.984238653,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2022,9.826938367,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2023,9.643007492,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,2024,9.436673308,per 1000 live births,gho_u5mr,gho,2026-10-19
+KAZ,under5_mortality,1971,85.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1972,83.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1973,81.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1974,79.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1975,78.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1976,76.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1977,75.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1978,73.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1979,72.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1980,70.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1981,68.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1982,65.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1983,63.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1984,61.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1985,59.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1986,57,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1987,55,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1988,53.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1989,51.9,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1990,51.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1991,50.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1992,51.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1993,51.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1994,52.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1995,51.9,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1996,51,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1997,49.3,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1998,47.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,1999,44.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2000,42.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2001,39.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2002,37.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2003,35.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2004,33,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2005,31,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2006,28.9,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2007,26.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2008,24.7,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2009,22.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2010,20.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2011,18.3,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2012,16.3,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2013,14.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2014,13,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2015,11.9,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2016,11,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2017,10.5,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2018,10.3,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2019,10.2,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2020,10.1,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2021,10,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2022,9.8,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2023,9.6,per 1000 live births,wb_u5mr,worldbank,2026-10-19
+KAZ,under5_mortality,2024,9.4,per 1000 live births,wb_u5mr,worldbank,2026-10-19

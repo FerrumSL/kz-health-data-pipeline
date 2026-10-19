@@ -1,0 +1,29 @@
+source_id,publisher,indicator,source_code,countries,access_method,url_template,expected_update,source_unit,multiplier,unit,selector
+gho_le,gho,life_expectancy,WHOSIS_000001,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},annual,years,1,years,
+gho_imr,gho,infant_mortality,MDG_0000000001,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},annual,per 1000 live births,1,per 1000 live births,
+gho_tb,gho,tb_incidence_estimated,MDG_0000000020,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},annual,per 100000 population,1,per 100000 population,
+gho_dtp3,gho,dtp3_coverage,WHS4_100,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},annual,percent,1,percent,
+gho_che,gho,health_expenditure_gdp,GHED_CHEGDP_SHA2011,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},annual,percent of GDP,1,percent of GDP,
+gho_beds,gho,hospital_beds,WHS6_102,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},irregular,per 10000 population,1,per 10000 population,
+wb_le,worldbank,life_expectancy,SP.DYN.LE00.IN,KAZ;EGY,api_json,https://api.worldbank.org/v2/country/{countries}/indicator/{code}?format=json&per_page=1000,annual,years,1,years,
+wb_imr,worldbank,infant_mortality,SP.DYN.IMRT.IN,KAZ;EGY,api_json,https://api.worldbank.org/v2/country/{countries}/indicator/{code}?format=json&per_page=1000,annual,per 1000 live births,1,per 1000 live births,
+wb_tb,worldbank,tb_incidence_estimated,SH.TBS.INCD,KAZ;EGY,api_json,https://api.worldbank.org/v2/country/{countries}/indicator/{code}?format=json&per_page=1000,annual,per 100000 population,1,per 100000 population,
+wb_dtp3,worldbank,dtp3_coverage,SH.IMM.IDPT,KAZ;EGY,api_json,https://api.worldbank.org/v2/country/{countries}/indicator/{code}?format=json&per_page=1000,annual,percent,1,percent,
+wb_che,worldbank,health_expenditure_gdp,SH.XPD.CHEX.GD.ZS,KAZ;EGY,api_json,https://api.worldbank.org/v2/country/{countries}/indicator/{code}?format=json&per_page=1000,annual,percent of GDP,1,percent of GDP,
+wb_beds,worldbank,hospital_beds,SH.MED.BEDS.ZS,KAZ;EGY,api_json,https://api.worldbank.org/v2/country/{countries}/indicator/{code}?format=json&per_page=1000,irregular,per 1000 population,10,per 10000 population,
+bns_le,bns,life_expectancy,703906,KAZ,api_json,"https://taldau.stat.gov.kz/ru/Api/GetIndexData/{code}?period=7&dics=67,64,576",annual,months,1/12,years,
+bns_imr,bns,infant_mortality,703850,KAZ,api_json,"https://taldau.stat.gov.kz/ru/Api/GetIndexData/{code}?period=7&dics=67,749,576",annual,per 1000 live births,1,per 1000 live births,
+bns_beds,bns,hospital_beds,704311,KAZ,api_json,"https://taldau.stat.gov.kz/ru/Api/GetIndexData/{code}?period=7&dics=67",annual,per 10000 population,1,per 10000 population,
+gho_u5mr,gho,under5_mortality,MDG_0000000007,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},annual,per 1000 live births,1,per 1000 live births,
+gho_nmr,gho,neonatal_mortality,WHOSIS_000003,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},annual,per 1000 live births,1,per 1000 live births,
+gho_docs,gho,doctors,HWF_0001,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},irregular,per 10000 population,1,per 10000 population,
+wb_u5mr,worldbank,under5_mortality,SH.DYN.MORT,KAZ;EGY,api_json,https://api.worldbank.org/v2/country/{countries}/indicator/{code}?format=json&per_page=1000,annual,per 1000 live births,1,per 1000 live births,
+wb_nmr,worldbank,neonatal_mortality,SH.DYN.NMRT,KAZ;EGY,api_json,https://api.worldbank.org/v2/country/{countries}/indicator/{code}?format=json&per_page=1000,annual,per 1000 live births,1,per 1000 live births,
+wb_docs,worldbank,doctors,SH.MED.PHYS.ZS,KAZ;EGY,api_json,https://api.worldbank.org/v2/country/{countries}/indicator/{code}?format=json&per_page=1000,irregular,per 1000 population,10,per 10000 population,
+bns_docs,bns,doctors,704316,KAZ,api_json,"https://taldau.stat.gov.kz/ru/Api/GetIndexData/{code}?period=7&dics=67",annual,per 10000 population,1,per 10000 population,
+bns_u5mr,bns,under5_mortality,451769,KAZ,xlsx_download,https://stat.gov.kz/api/iblock/element/{code}/file/ru/,annual,на 1000 родившихся,1,per 1000 live births,Показатели|Республика Казахстан
+bns_nmr,bns,neonatal_mortality,451770,KAZ,xlsx_download,https://stat.gov.kz/api/iblock/element/{code}/file/ru/,annual,на 1000 родившихся,1,per 1000 live births,Показатели|Республика Казахстан
+bns_dtp3,bns,dtp3_coverage,474267,KAZ,xlsx_download,https://stat.gov.kz/api/iblock/element/{code}/file/ru/,annual,процент,1,percent,3.b.1|Охват АКДС (3 дозы)
+bns_tb,bns,tb_incidence_national,474268,KAZ,xlsx_download,https://stat.gov.kz/api/iblock/element/{code}/file/ru/,annual,на 100 000 человек,1,per 100000 population,3.3.2|3.3.2 Заболеваемость туберкулезом на 100 000 человек
+gho_amr_mrsa,gho,amr_mrsa_bsi,AMR_INFECT_MRSA,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},annual,percent,1,percent,
+gho_amr_ecoli,gho,amr_ecoli_3gc_bsi,AMR_INFECT_ECOLI,KAZ;EGY,api_json,https://ghoapi.azureedge.net/api/{code},annual,percent,1,percent,

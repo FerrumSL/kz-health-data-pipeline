@@ -57,7 +57,11 @@ download_to_temp <- function(req, ext) {
   req |>
     httr2::req_user_agent("kz-health-data-pipeline (https://github.com/FerrumSL/kz-health-data-pipeline)") |>
     httr2::req_timeout(120) |>
-    httr2::req_retry(max_tries = 3) |>
+    # httr2 default retries only 429/503; WHO GHO outages return 500/502/504.
+    # Worst case ~30 s wait per source (10 s, 20 s).
+    httr2::req_retry(max_tries = 3,
+                     is_transient = \(resp) httr2::resp_status(resp) %in% c(429, 500, 502, 503, 504),
+                     backoff = \(i) 10 * i) |>
     httr2::req_perform(path = path)
   path
 }

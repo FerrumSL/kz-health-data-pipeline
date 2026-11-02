@@ -313,3 +313,31 @@ run_at,source_id,status,rows,hash,message
 2026-10-26 12:36:18,bns_tb,unchanged,16,940498a2ef42d613727b1df1c0fdb9fba91e545a75056c821ca0a4c3a2489100,
 2026-10-26 12:36:18,gho_amr_mrsa,updated,6,0ff0caf291fe1d087cb473f96a0513bbfe4642c40d288a1ca077ee492510daa7,
 2026-10-26 12:36:18,gho_amr_ecoli,updated,5,5956c03f21fb880b82611b7fa4ab7c6441b6fd8f3e9bdbaa6eeb87f550dcaa42,
+2026-11-02 14:46:44,gho_le,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,gho_imr,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,gho_tb,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,gho_dtp3,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,gho_che,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,gho_beds,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,wb_le,unchanged,130,e17785447bcd24101d2d068e85f2be547cc58d124f981267b4d3568db7a8960b,
+2026-11-02 14:46:44,wb_imr,unchanged,119,4a4fd011a45dbacbe2c409710f4c6cbe8b321c65c85f0aaa2dc7478c3c40b0c6,
+2026-11-02 14:46:44,wb_tb,unchanged,50,8f363392cd88d9028099e9b37699ce040f7cce891799e731d0e9fba8a60767e3,
+2026-11-02 14:46:44,wb_dtp3,unchanged,78,fed25816dd0c425f8628501bdcdd43fb8a9ba82619c654a7be02b777d6d99a9e,
+2026-11-02 14:46:44,wb_che,unchanged,48,d71ada6cdc3eb83d3b96166813bef7dbf6d941e231066469fb49684c0753ccdc,
+2026-11-02 14:46:44,wb_beds,unchanged,77,875f01f2d1e2ca15f5a135f2d1d79063cbbb21451ed041b51aebe9c04f698ed1,
+2026-11-02 14:46:44,bns_le,unchanged,17,e7bc58f22ecfc4350588e58437fbee5e2417d0c4ab316180ede0e812f3c4fbef,
+2026-11-02 14:46:44,bns_imr,unchanged,24,94a4ae50eb1ec24e9d25a42725842e929dc40f220aa8ef4d5895dd4b2cc08977,
+2026-11-02 14:46:44,bns_beds,unchanged,10,173d7763859c423dd3ac3700d7b87837aea5c5875d8b868382bceb67c8ddb46a,
+2026-11-02 14:46:44,gho_u5mr,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,gho_nmr,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,gho_docs,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,wb_u5mr,unchanged,119,b27ab4b88e924f49b63d71a794e578e74594c7fb6c644e49cfe37d9c7a594b4c,
+2026-11-02 14:46:44,wb_nmr,unchanged,118,783db96b0ac48978f38362770777657e71657e607f8866c581f7088be3fdf40d,
+2026-11-02 14:46:44,wb_docs,unchanged,46,3a3a525fd937b8f1b64d2766467467bd0b720eee241801e92d4147521593c049,
+2026-11-02 14:46:44,bns_docs,unchanged,10,4c6258bd3fcb7c9330b04feb8cf9c53d716efa3e592b6e79ce083f52ec73699a,
+2026-11-02 14:46:44,bns_u5mr,unchanged,16,4373ce250e265cddf612401bc0734e803ecb513a6af4f7aaf304358f600c0a91,
+2026-11-02 14:46:44,bns_nmr,unchanged,16,a541185d7032769f9a7b428b9ce8a688ee7fa027d7c4a3ab351cac4a71499e7e,
+2026-11-02 14:46:44,bns_dtp3,unchanged,16,e9a5125c98aa9ffc59bc17d4f863d956f1535ccec6763799164618178b846a8f,
+2026-11-02 14:46:44,bns_tb,unchanged,16,940498a2ef42d613727b1df1c0fdb9fba91e545a75056c821ca0a4c3a2489100,
+2026-11-02 14:46:44,gho_amr_mrsa,failed,,,HTTP 500 Internal Server Error.
+2026-11-02 14:46:44,gho_amr_ecoli,failed,,,HTTP 500 Internal Server Error.
